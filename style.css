@@ -11,3 +11,10 @@ section {
 div.card a {
   text-decoration: none;
 }
+div.baris {
+  display: flex;
+  justify-content: center;
+}
+hr {
+  width: 35vw;
+}
